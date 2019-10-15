@@ -1,0 +1,144 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%           Page de Garde		         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter 
+\def\@specialite{Spécialité}
+\newcommand{\specialite}[1]{
+  \def\@specialite{#1}
+}
+\def\@directeur{directeur}
+\newcommand{\directeur}[1]{
+  \def\@directeur{#1}
+}
+\def\@encadrant{encadrant}
+\newcommand{\encadrant}[1]{
+  \def\@encadrant{#1}
+}
+\def\@jurya{}{}{}
+\newcommand{\jurya}[3]{
+  \def\@jurya{#1,	& #2	& #3\\}
+}
+\def\@juryb{}{}{}
+\newcommand{\juryb}[3]{
+  \def\@juryb{#1,	& #2	& #3\\}
+}
+\def\@juryc{}{}{}
+\newcommand{\juryc}[3]{
+  \def\@juryc{#1,	& #2	& #3\\}
+}
+\def\@juryd{}{}{}
+\newcommand{\juryd}[3]{
+  \def\@juryd{#1,	& #2	& #3\\}
+}
+\def\@jurye{}{}{}
+\newcommand{\jurye}[3]{
+  \def\@jurye{#1,	& #2	& #3\\}
+}
+\def\@juryf{}{}{}
+\newcommand{\juryf}[3]{
+  \def\@juryf{#1,	& #2	& #3\\}
+}
+\def\@juryg{}{}{}
+\newcommand{\juryg}[3]{
+  \def\@juryg{#1,	& #2	& #3\\}
+}
+\def\@juryh{}{}{}
+\newcommand{\juryh}[3]{
+  \def\@juryh{#1,	& #2	& #3\\}
+}
+\def\@juryi{}{}{}
+\newcommand{\juryi}[3]{
+  \def\@juryi{#1,	& #2	& #3\\}
+}
+\makeatother 
+\newcommand\EtiquetteThese{%
+	\put(-10,10){%
+		\parbox[t][\paperheight]{\paperwidth}{%
+			\hfill
+			\colorbox{black}{		
+				\begin{minipage}[b]{3em}
+					\centering\Huge\textcolor{white}{E\\X\\C\\E\\L\\}
+					\vspace{0.3cm}
+				\end{minipage}
+			}
+		}
+	}
+}
+
+\makeatletter
+\newcommand{\pagedegarde}{
+\newgeometry{top=2.5cm, bottom=2cm, left=2cm, right=1cm}
+ 
+\AddToShipoutPicture*{\EtiquetteThese}
+  \begin{titlepage}
+	\centering	
+	\hspace{-47pt}
+	\begin{minipage}[l]{0.2\columnwidth}
+		\vspace{6mm}
+		\includegraphics[width=1.1\columnwidth]{img/logo}\\
+	\end{minipage}
+	\hfill
+	\begin{minipage}[l]{0.6\columnwidth}
+		\centering
+		\footnotesize 
+		\vspace{1.5mm}
+		\textbf{\Huge\ministere{}}\\
+		\vspace{1.5mm} 
+	\end{minipage}
+	\hfill
+	\begin{minipage}[l]{0.2\columnwidth}
+		\vspace{6mm}
+		\includegraphics[width=1.1\columnwidth]{img/logo}\\
+	\end{minipage}
+\begin{minipage}{1\textwidth}
+	\begin{center}
+		%\Huge\ministere{}
+	\end{center}				
+\end{minipage}
+
+%\includegraphics[width=0.4\linewidth]{img/logo.png}
+    \vspace{1cm}
+    	\begin{minipage}{1\textwidth}\raggedright
+    		\begin{tabular}{>{\bfseries}llr}
+			 \large Ann\'{e}e&:\enspace\textbf{\the\year} \\
+			\end{tabular}
+		\end{minipage}      
+    	{\Large{\textbf{ }}}\\
+    	\vspace{0.5cm}
+    	\textit{ }\\
+    	\vspace{0.5cm}
+    	{\Large{\textbf{ }}}\\
+    	\vspace{0.5cm}
+    	 { }\\
+    \vspace{1cm}
+    \begin{tcolorbox}[colback=white,boxrule=0pt,toprule=3pt,bottomrule=3pt,arc=0pt,top=0mm,right=0mm,left=0mm,bottom=0mm,boxsep=0.7mm]{
+    		\begin{tcolorbox}[colback=white, boxrule=0pt,toprule=1pt,bottomrule=1pt,arc=0pt,enlarge bottom by=-0.9mm, auto outer arc]
+    			\centering
+    			\begin{minipage}[l]{0.2\columnwidth} 
+    				\includegraphics[width=1\columnwidth]{img/Microsoft_Excel}\\
+    			\end{minipage}
+    			\hfill
+    			\begin{minipage}[l]{0.7\columnwidth}
+    				\centering
+    				\footnotesize 
+    				{\Huge{\@title}} 
+    			\end{minipage}
+    			
+    		\end{tcolorbox}
+    	}
+    \end{tcolorbox}
+    \vspace{0.5cm}
+    	\textit{présentée par}\\
+    \vspace{0.5cm}
+    	{\Large {\bfseries \@author}} \\
+    \vspace{0.5cm}
+    	le 10 juillet 2019\\   
+    %et soutenu publiquement
+    \vspace{1cm}
+ 
+  \end{titlepage}
+\restoregeometry  
+\nopagebreak  
+}
+\makeatother

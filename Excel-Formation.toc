@@ -1,0 +1,30 @@
+\babel@toc {french}{}
+\contentsline {chapter}{Table des mati\`eres}{i}{chapter*.1}
+\contentsline {part}{I\hspace {1em}Prise en Main d'Excel}{1}{part.1}
+\contentsline {xpart}{Prise en Main d'Excel}{3}{part.1}
+\contentsline {part}{II\hspace {1em}Presentation d'Excel}{6}{part.2}
+\contentsline {xpart}{Presentation d'Excel}{8}{part.2}
+\contentsline {part}{III\hspace {1em}Creation d'un Nouveau Classeur}{9}{part.3}
+\contentsline {xpart}{Creation d'un Nouveau Classeur}{11}{part.3}
+\contentsline {part}{IV\hspace {1em}Enregistrer la premiere fois}{13}{part.4}
+\contentsline {xpart}{Enregistrer la premiere fois}{15}{part.4}
+\contentsline {part}{V\hspace {1em}Enregistrer \& Fermer}{16}{part.5}
+\contentsline {xpart}{Enregistrer \& Fermer}{18}{part.5}
+\contentsline {part}{VI\hspace {1em}Insertion d'image}{19}{part.6}
+\contentsline {xpart}{Insertion d'image}{21}{part.6}
+\contentsline {part}{VII\hspace {1em}Saisie Brute}{25}{part.7}
+\contentsline {xpart}{Saisie Brute}{27}{part.7}
+\contentsline {part}{VIII\hspace {1em}Mise en Forme}{28}{part.8}
+\contentsline {xpart}{Mise en Forme}{30}{part.8}
+\contentsline {part}{IX\hspace {1em}Operations Arithmetiques}{70}{part.9}
+\contentsline {xpart}{Operations Arithmetiques}{72}{part.9}
+\contentsline {part}{X\hspace {1em}Prise en Page}{82}{part.10}
+\contentsline {xpart}{Prise en Page}{84}{part.10}
+\contentsline {part}{XI\hspace {1em}Fonction Conditionelle}{90}{part.11}
+\contentsline {xpart}{Fonction Conditionelle}{92}{part.11}
+\contentsline {part}{XII\hspace {1em}Mise en Forme Conditionnelle}{98}{part.12}
+\contentsline {xpart}{Mise en Forme Conditionnelle}{100}{part.12}
+\contentsline {part}{XIII\hspace {1em}Impression}{103}{part.13}
+\contentsline {xpart}{Impression}{105}{part.13}
+\contentsline {part}{XIV\hspace {1em}Graphiques}{107}{part.14}
+\contentsline {xpart}{Graphiques}{109}{part.14}

@@ -1,0 +1,49 @@
+\babel@toc {french}{}
+\contentsline {chapter}{Table des mati\`eres}{i}{chapter*.1}
+\contentsline {chapter}{Table des figures}{ii}{chapter*.2}
+\contentsline {chapter}{Liste des tableaux}{iv}{chapter*.3}
+\contentsline {part}{I\hspace {1em}Prise en Main d'Excel}{1}{part.1}
+\contentsline {xpart}{Prise en Main d'Excel}{3}{part.1}
+\contentsline {chapter}{\numberline {1}Pr\IeC {\'e}sentation d\IeC {\textquoteright }Excel}{3}{chapter.1}
+\contentsline {section}{\numberline {\filterminitoc {1.}1}Vocabulaire}{4}{section.1.1}
+\contentsline {paragraph}{Ins\IeC {\'e}rer une fonction:}{6}{section*.9}
+\contentsline {paragraph}{Masquer ou afficher la barre de formule}{7}{section*.10}
+\contentsline {paragraph}{Emp\IeC {\^e}cher l\IeC {\textquoteright }affichage des formules dans la barre de formule}{7}{section*.11}
+\contentsline {chapter}{\numberline {2}Premier Classeur}{9}{chapter.2}
+\contentsline {section}{\numberline {\filterminitoc {2.}1}Cr\IeC {\'e}ation d\IeC {\textquoteright }un nouveau classeur}{10}{section.2.1}
+\contentsline {section}{\numberline {\filterminitoc {2.}2}Enregistrer un classeur la premi\IeC {\`e}re fois}{11}{section.2.2}
+\contentsline {section}{\numberline {\filterminitoc {2.}3}Enregistrer les autres fois}{12}{section.2.3}
+\contentsline {section}{\numberline {\filterminitoc {2.}4}Fermeture d'un classeur}{12}{section.2.4}
+\contentsline {section}{\numberline {\filterminitoc {2.}5} Saisir du texte et des nombres }{13}{section.2.5}
+\contentsline {subsection}{\numberline {\filterminitoc {2.}5.1} Saisir du texte}{13}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {\filterminitoc {2.}5.2} Saisir des nombres }{13}{subsection.2.5.2}
+\contentsline {section}{\numberline {\filterminitoc {2.}6}Modifier des donn\IeC {\'e}es}{14}{section.2.6}
+\contentsline {section}{\numberline {\filterminitoc {2.}7}Supprimer les donn\IeC {\'e}es}{14}{section.2.7}
+\contentsline {section}{\numberline {\filterminitoc {2.}8}D\IeC {\'e}placez ou copiez des donn\IeC {\'e}es}{15}{section.2.8}
+\contentsline {section}{\numberline {\filterminitoc {2.}9}Agrandir les cellules}{16}{section.2.9}
+\contentsline {section}{\numberline {\filterminitoc {2.}10}Formats, mise en forme et poign\IeC {\'e}e de recopie incr\IeC {\'e}ment\IeC {\'e}e}{16}{section.2.10}
+\contentsline {subsection}{\numberline {\filterminitoc {2.}10.1}Formats}{16}{subsection.2.10.1}
+\contentsline {subsection}{\numberline {\filterminitoc {2.}10.2}Mise en forme}{18}{subsection.2.10.2}
+\contentsline {subsubsection}{\numberline {\filterminitoc {2.}10.2.1}Bordure}{18}{subsubsection.2.10.2.1}
+\contentsline {subsubsection}{\numberline {\filterminitoc {2.}10.2.2}Aligments}{19}{subsubsection.2.10.2.2}
+\contentsline {subsubsection}{\numberline {\filterminitoc {2.}10.2.3}Police}{20}{subsubsection.2.10.2.3}
+\contentsline {subsubsection}{\numberline {\filterminitoc {2.}10.2.4}Trames des Cellules}{21}{subsubsection.2.10.2.4}
+\contentsline {section}{\numberline {\filterminitoc {2.}11}S\IeC {\'e}rie d'Exercices}{21}{section.2.11}
+\contentsline {chapter}{\numberline {3}Saisie Rapide}{24}{chapter.3}
+\contentsline {section}{\numberline {\filterminitoc {3.}1}Succession de Repetition}{25}{section.3.1}
+\contentsline {section}{\numberline {\filterminitoc {3.}2}Suite Inscrement\IeC {\'e}e}{25}{section.3.2}
+\contentsline {section}{\numberline {\filterminitoc {3.}3}Suite Inscrement\IeC {\'e}e d'une liste personnalis\IeC {\'e}e }{26}{section.3.3}
+\contentsline {section}{\numberline {\filterminitoc {3.}4}Liste personnalis\IeC {\'e}e }{27}{section.3.4}
+\contentsline {section}{\numberline {\filterminitoc {3.}5}S\IeC {\'e}rie d'Exercices}{28}{section.3.5}
+\contentsline {chapter}{\numberline {4}Fonctions}{31}{chapter.4}
+\contentsline {section}{\numberline {\filterminitoc {4.}1}Fonctions Arithm\IeC {\'e}tique}{32}{section.4.1}
+\contentsline {section}{\numberline {\filterminitoc {4.}2}S\IeC {\'e}rie d'Exercices}{33}{section.4.2}
+\contentsline {section}{\numberline {\filterminitoc {4.}3}Autres Fonctions}{34}{section.4.3}
+\contentsline {subsection}{\numberline {\filterminitoc {4.}3.1}Fonction\IeC {\nobreakspace }de Recherche: minimum \& maximum\IeC {\nobreakspace }}{34}{subsection.4.3.1}
+\contentsline {section}{\numberline {\filterminitoc {4.}4}S\IeC {\'e}rie d'Exercices}{35}{section.4.4}
+\contentsline {section}{\numberline {\filterminitoc {4.}5}Les conditions}{36}{section.4.5}
+\contentsline {subsection}{\numberline {\filterminitoc {4.}5.1}Les Conditions Simples}{36}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {\filterminitoc {4.}5.2}Les Conditions Multiples}{37}{subsection.4.5.2}
+\contentsline {section}{\numberline {\filterminitoc {4.}6}S\IeC {\'e}rie d'Exercices}{38}{section.4.6}
+\contentsline {section}{\numberline {\filterminitoc {4.}7}Mise en forme conditionnelle}{39}{section.4.7}
+\contentsline {part}{II\hspace {1em}Contexte de travail}{40}{part.2}
